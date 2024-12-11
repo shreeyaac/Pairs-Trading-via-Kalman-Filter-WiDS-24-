@@ -47,26 +47,16 @@ You can install the required packages with:
 pip install numpy pandas matplotlib pykalman yfinance
 ```
 
-## 6. Getting Started
-- **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/Pairs-Trading-via-Kalman-Filter.git
-   cd kalman-pairs-trading
-   ```
-- **Set Up Your Environment:** Ensure that all the required libraries are installed.
-- **Run the Data Collection Script:** Use the script to gather historical stock data for a pair of stocks (e.g., AAPL and MSFT).
-- **Run the Kalman Filter Model:** Follow the notebook instructions to initialize the Kalman Filter and apply it to the collected data.
-
-## 7. Code and Explanation
+## 6. Code and Explanation
 The code will include the following sections:
 - **Data Collection:** : Uses yfinance to pull historical data on two correlated stocks, formatting it for the Kalman Filter.
 - **Kalman Filter Model:** : The model initializes with parameters suited for financial time series, setting the observation matrix and covariance to track the hedge ratio.
 - **Backtesting Strategy:** : Simulates historical pairs trades by triggering buy/sell actions when the price deviates from the calculated hedge ratio beyond a predefined threshold.
 - **Visualization:** : Visualizes stock prices, hedge ratio changes, and trade signals, providing insights into model performance.
 
-## 8. Conclusion
+## 7. Conclusion
 Through this project, we've created a pairs trading model that adapts to real-time data, helping to make trading strategies more responsive and market-aware. The Kalman Filter has proven effective at tracking hedge ratios, making this approach viable for real-world trading applications.
 
-## 9. References
+## 8. References
 - [PyKalman Documentation](https://pykalman.github.io/)
 - [Pairs Trading Guide by Investopedia](https://www.investopedia.com/terms/p/pairs-trading.asp)
