@@ -42,8 +42,9 @@ For a deeper understanding of **Kalman filtering** and **pairs trading**, we rec
 - **Kalman Filtering in Python**:
     For a practical, hands-on guide to implementing Kalman filters in Python, refer to the following resource:
     - [Kalman and Bayesian Filters in Python - 1D Kalman Filter](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/04-One-Dimensional-Kalman-Filters.ipynb)
-    - 
 - **Additional Resource**:
     - [Kalman Filter for Linear Regression](https://letianzj.github.io/kalman-filter-linear-regression.html): A great resource for understanding how Kalman filtering can be applied to linear regression, helping you deepen your understanding of Kalman filtering in the context of pairs trading.
+    - [How a Kalman Filter Works in Pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/): A visual guide to understanding how Kalman filters operate.
+
 
 May The Profit Be With You!
