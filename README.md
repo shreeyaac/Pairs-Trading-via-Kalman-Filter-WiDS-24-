@@ -50,7 +50,7 @@ pip install numpy pandas matplotlib pykalman yfinance
 ## 6. Getting Started
 - **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/kalman-pairs-trading.git
+   git clone https://github.com/your-username/Pairs-Trading-via-Kalman-Filter.git
    cd kalman-pairs-trading
    ```
 - **Set Up Your Environment:** Ensure that all the required libraries are installed.
