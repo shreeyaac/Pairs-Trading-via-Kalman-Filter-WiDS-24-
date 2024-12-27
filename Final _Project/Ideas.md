@@ -32,7 +32,6 @@
 ## 3. Implementing a Variance Threshold Strategy Based on Kalman Filter Residuals
 - **Variance Threshold Basics**  
   - [Variance Threshold in Machine Learning (Medium)](https://medium.com/aimonks/a-comprehensive-guide-to-feature-selection-using-variance-threshold-in-scikit-learn-0b10146aa71f)  
-  - [Feature Selection Techniques (GitHub)](https://github.com/krishnaik06/Feature-Selection-techniques)  
 
 - **Volatility and Trading Strategies**  
   - [Volatility Explained (Investopedia)](https://www.investopedia.com/terms/v/volatility.asp)  
