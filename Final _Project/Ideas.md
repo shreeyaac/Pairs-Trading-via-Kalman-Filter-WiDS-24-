@@ -11,12 +11,6 @@
   - [Kalman Filter-Based Pairs Trading Strategy In QSTrader (QuantStart)](https://www.quantstart.com/articles/kalman-filter-based-pairs-trading-strategy-in-qstrader/)  
   - [Advanced Pairs Trading: Kalman Filters (Medium)](https://medium.com/@ab.jannatpour/advanced-pairs-trading-kalman-filters-b171144ce6d5)  
 
-## 2. Pairs Trading with Multiple Cointegrated Pairs in a Portfolio
-
-- **Kalman Filter in Multi-Pair Trading**  
-  - [Kalman Filter and Pairs Trading](https://letianzj.github.io/kalman-filter-pairs-trading.html)  
-  - [Kalman Filtering for Pairs Trading (Portfolio Optimization Book)](https://bookdown.org/palomar/portfoliooptimizationbook/15.6-kalman-pairs-trading.html)  
-
 ## 3. Implementing a Variance Threshold Strategy Based on Kalman Filter Residuals
 
 - **Variance Threshold Basics**  
