@@ -3,9 +3,7 @@
 ## 1. Risk Management in Pairs Trading Using Kalman Filtering
 
 - **Risk Management Techniques**  
-  - [Risk Management in Trading (Investopedia)](https://www.investopedia.com/articles/trading/09/risk-management.asp)  
-  - [Stop-Loss Order Definition (Investopedia)](https://www.investopedia.com/terms/s/stop-loss-order.asp)  
-  - [Position Sizing in Trading (TradingSim)](https://www.tradingsim.com/blog/position-sizing/)  
+  - [Risk Management in Trading (Investopedia)](https://www.investopedia.com/articles/trading/09/risk-management.asp)   
   - [Diversification Definition (Investopedia)](https://www.investopedia.com/terms/d/diversification.asp)  
 
 - **Kalman Filter for Trading**  
@@ -14,14 +12,6 @@
   - [Advanced Pairs Trading: Kalman Filters (Medium)](https://medium.com/@ab.jannatpour/advanced-pairs-trading-kalman-filters-b171144ce6d5)  
 
 ## 2. Pairs Trading with Multiple Cointegrated Pairs in a Portfolio
-
-- **Cointegration Basics**  
-  - [Cointegration in Trading Strategies (QuantInsti)](https://blog.quantinsti.com/cointegration/)  
-  - [Statistical Arbitrage (GitHub)](https://github.com/snake0/statistical-arbitrage)  
-
-- **Portfolio Management**  
-  - [Modern Portfolio Theory (Investopedia)](https://www.investopedia.com/terms/m/modernportfoliotheory.asp)  
-  - [Portfolio Optimization Using Python (GitHub)](https://github.com/RomanMichaelPaolucci/portfolio-optimization)  
 
 - **Kalman Filter in Multi-Pair Trading**  
   - [Kalman Filter and Pairs Trading](https://letianzj.github.io/kalman-filter-pairs-trading.html)  
